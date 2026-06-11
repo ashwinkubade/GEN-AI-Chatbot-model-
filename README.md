@@ -59,7 +59,7 @@ GEN-AI-Chatbot-model-
 
 ## Screenshots
 
-Screenshot 2026-06-11 204203.png
+https://github.com/ashwinkubade/GEN-AI-Chatbot-model-/blob/114153798e6237b22c9461a97f43fd9641cb53d3/Screenshot%202026-06-11%20204203.png
 
 ## Author
 
