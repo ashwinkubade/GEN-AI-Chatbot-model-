@@ -1,0 +1,11 @@
+openai
+groq
+google-generativeai
+mistralai
+langchain
+langchain-openai
+langchain-google-genai
+langchain-community
+python-dotenv
+huggingface_hub
+langchain-huggingface
